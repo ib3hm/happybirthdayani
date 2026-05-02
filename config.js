@@ -56,7 +56,7 @@ const CONFIG = {
     {
       type: "greeting",
       title: "Hi",
-      subtitle: "I really like your name btw! (Besides your cheeks)",
+      subtitle: "I really like your name btw! (Besides your cheeks (and your personality (and your smile (and your eyes)))",
     },
     {
       type: "countdown",
@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday! May you always be guided toward happiness and kept under the best of care",
+        "Happy birthday! May you always be guided toward happiness and kept under the best of care.",
       buttonText: "Send",
     },
     {
@@ -80,7 +80,7 @@ const CONFIG = {
         "But then I stopped.",
         "I realised, I wanted to do something <strong>special</strong>.",
         "Because,",
-        "You are most Special thing happening to me <span>:)</span>",
+        "You are the most special thing happening to me <span>:)</span>",
       ],
       bigLetters: "SO",
     },
